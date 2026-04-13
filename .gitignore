@@ -1,0 +1,7 @@
+# .env
+# node_modules/
+map.tex
+.md
+# .gitignore
+# .gitattributes
+ bun.lock
